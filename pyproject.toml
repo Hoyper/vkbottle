@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "vkbottle"
+name = "vkbottle-vkru"
 version = "4.3.12"
 description = "Homogenic! Customizable asynchronous VK API framework implementing comfort and speed"
 authors = ["timoniq"]
