@@ -6,8 +6,8 @@ authors = ["timoniq"]
 maintainers = ["FeeeeK"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/vkbottle/vkbottle"
-repository = "https://github.com/vkbottle/vkbottle"
+homepage = "https://github.com/Hoyper/vkbottle"
+repository = "https://github.com/Hoyper/vkbottle"
 keywords = [
   "vk",
   "vk-api",
@@ -33,10 +33,11 @@ classifiers = [
   "Topic :: Software Development :: Quality Assurance",
   "Typing :: Typed",
 ]
+packages = [{ include = "vkbottle" }]
 
 
 [tool.poetry.urls]
-"Bug Tracker" = "https://github.com/vkbottle/vkbottle/issues"
+"Bug Tracker" = "https://github.com/Hoyper/vkbottle/issues"
 
 
 [tool.poetry.dependencies]
