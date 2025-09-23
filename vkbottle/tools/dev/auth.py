@@ -27,7 +27,7 @@ class AuthError(VKAPIError[0]):  # type: ignore
 
 
 class UserAuth:
-    AUTH_URL = "https://oauth.vk.com/token"
+    AUTH_URL = "https://oauth.vk.ru/token"
 
     def __init__(
         self,
